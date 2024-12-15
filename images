@@ -1,3 +1,0 @@
-git add images/
-git commit -m "Добавлена папка с изображениями"
-git push origin main
