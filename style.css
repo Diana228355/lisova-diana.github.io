@@ -10,7 +10,7 @@ color: #333;
 header {
 background: #6c5ce7;
 color: #fff;
-padding: 20px 0;
+padding: 20px;
 text-align: center;
 }
 
@@ -37,10 +37,22 @@ display: block;
 margin: 0 auto 20px;
 }
 
+ul {
+list-style: none;
+padding: 0;
+}
+
+ul li {
+background: #eaeaea;
+margin: 5px 0;
+padding: 10px;
+border-radius: 5px;
+}
+
 footer {
 text-align: center;
 background: #333;
 color: #fff;
-padding: 10px 0;
+padding: 10px;
 margin-top: 20px;
 }
